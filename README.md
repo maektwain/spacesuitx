@@ -89,7 +89,7 @@ Hopefully this tool will be useful.  Feel free to use it in your own analysis.  
 Thanks!
 
 
-<i>Saransh Sharma is the founder of Bitrupee.<\i>
+Saransh Sharma is the founder of Bitrupee.
 
 
 
