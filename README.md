@@ -89,7 +89,7 @@ Hopefully this tool will be useful.  Feel free to use it in your own analysis.  
 Thanks!
 
 
-<i>Bruce Fenton is founder of Chainstone Labs & Atlantic Financial.  He has been in the investment management industry for over 25 years.  Bruce is a board member of the Bitcoin Foundation, Medici Ventures and is the host of the Satoshi Roundtable.<\i>
+<i>Saransh Sharma is the founder of Bitrupee.<\i>
 
 
 
